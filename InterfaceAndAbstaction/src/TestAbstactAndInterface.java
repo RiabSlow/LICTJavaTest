@@ -6,5 +6,9 @@ public class TestAbstactAndInterface {
     public static void main(String[] args){
         InterfaceClass interfaceClass=new TestClass();
         System.out.print("Proect name :"+interfaceClass.projectName());
+
+        TestAbstract testAbstract=new TestAbstract();
+        testAbstract.setName("Abstract");
+        System.out.print("Proect name :"+testAbstract.name());
     }
 }

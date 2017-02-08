@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f69984b-e868-4312-95a8-14c6a8826c6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exception/Exception.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exception/src/ExceptionText.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HastMapArrayListFile/HastMapArrayListFile.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HastMapArrayListFile/src/HashMapArrayListFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Inheritance/src/Inheritance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Inheritance/src/TestClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfaceAndAbstaction/InterfaceAndAbstaction.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfaceAndAbstaction/src/AbstractClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfaceAndAbstaction/src/InterfaceClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstactAndInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstract.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfaceAndAbstaction/src/TestClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICTText.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPConcept/OOPConcept.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPConcept/src/OOPConcept.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThreadTest/src/ThreadTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Inheritance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TestClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstactAndInterface.java" afterPath="$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstactAndInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstract.java" afterPath="$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstract.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,35 +49,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestAbstactAndInterface.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestAbstactAndInterface.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstactAndInterface.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterfaceAndAbstaction/src/AbstractClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestAbstract.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestAbstract.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstract.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-              <folding />
+              <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,8 +135,9 @@
         <option value="$PROJECT_DIR$/Exception/src/ExceptionText.java" />
         <option value="$PROJECT_DIR$/InterfaceAndAbstaction/src/InterfaceClass.java" />
         <option value="$PROJECT_DIR$/InterfaceAndAbstaction/src/TestClass.java" />
-        <option value="$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstactAndInterface.java" />
         <option value="$PROJECT_DIR$/InterfaceAndAbstaction/src/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstract.java" />
+        <option value="$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstactAndInterface.java" />
       </list>
     </option>
   </component>
@@ -652,6 +621,14 @@
       <option name="presentableId" value="Default" />
       <updated>1486543705507</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1486545767565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1486545767565</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -690,6 +667,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -804,14 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstactAndInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InterfaceAndAbstaction/src/AbstractClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -826,7 +799,18 @@
     <entry file="file://$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstract.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceAndAbstaction/src/TestAbstactAndInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
           <folding />
         </state>
       </provider>
