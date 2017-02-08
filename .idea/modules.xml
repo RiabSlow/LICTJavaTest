@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HastMapArrayListFile/HastMapArrayListFile.iml" filepath="$PROJECT_DIR$/HastMapArrayListFile/HastMapArrayListFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceAndAbstact/InterfaceAndAbstact.iml" filepath="$PROJECT_DIR$/InterfaceAndAbstact/InterfaceAndAbstact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceAndAbstaction/InterfaceAndAbstaction.iml" filepath="$PROJECT_DIR$/InterfaceAndAbstaction/InterfaceAndAbstaction.iml" />
+      <module fileurl="file://D://LICTText/LICTText.iml" filepath="D://LICTText/LICTText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPConcept/OOPConcept.iml" filepath="$PROJECT_DIR$/OOPConcept/OOPConcept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadTest/ThreadTest.iml" filepath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" />
+    </modules>
+  </component>
+</project>
